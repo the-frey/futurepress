@@ -12,6 +12,8 @@ We are going to make an HTML5 framework geared specifically towards Books.
 ⁃	Perhaps we will also use a few JavaScript libraries and elements from Twitter Bootstrap.
 
 ⁃	The goal is to start an HTML5 framework that is geared specifically towards longer texts, like books.
+
+
 Why is this needed?
 
 ⁃	Formats like Epub3 support HTML5 but publishers are left to do the dirty work themselves. The only framework that really exists (we don’t talk about Inkling) for enhanced eBooks is iBooks Author. Publishers are left in the dark with these things.
@@ -19,6 +21,8 @@ Why is this needed?
 ⁃	Tools that help people make things usually go over nicely. 
 
 ⁃	Something like this would be helpful even if something like Epub3 takes off as the new format: since future formats are likely to be based on HTML5. 
+
+
 What will we code/design over winter?
 
 ⁃	Aspects of things we’ve wanted all along: annotations, comments, Evernote integration, and more. But first… we’ll focus on replicating all functionality that eBooks currently have.
