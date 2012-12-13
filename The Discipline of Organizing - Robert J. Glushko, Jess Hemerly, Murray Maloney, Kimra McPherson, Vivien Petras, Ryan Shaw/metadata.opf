@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">124377ac-43b1-4816-aa65-66e3f8938a38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08df03fa-3541-452f-adf3-d8a64fabef7a</dc:identifier>
+        <dc:title>The Discipline of Organizing</dc:title>
+        <dc:creator opf:file-as="Glushko, Robert, Hemerly, Jess, Maloney, Murray, McPherson, Kimra, Petras, Vivien, Shaw, Ryan, and Wilde, Erik" opf:role="aut">Robert J. Glushko, Jess Hemerly, Murray Maloney, Kimra McPherson, Vivien Petras, Ryan Shaw</dc:creator>
+        <dc:creator opf:file-as="Glushko, Robert, Hemerly, Jess, Maloney, Murray, McPherson, Kimra, Petras, Vivien, Shaw, Ryan, and Wilde, Erik" opf:role="aut">Erik Wilde</dc:creator>
+        <dc:creator opf:file-as="Glushko, Robert, Hemerly, Jess, Maloney, Murray, McPherson, Kimra, Petras, Vivien, Shaw, Ryan, and Wilde, Erik" opf:role="aut">Rachel Annechino, J.J.M. Ekaterin, Ryan Greenberg, Michael Manoochehri, Sean Marimetri, Matthew Mayernik, Karen Joy Nomorosa, Hyunwoo Park, Alberto Pepe, Daniel D. Turner</dc:creator>
+        <dc:creator opf:file-as="Glushko, Robert, Hemerly, Jess, Maloney, Murray, McPherson, Kimra, Petras, Vivien, Shaw, Ryan, and Wilde, Erik" opf:role="aut">Longhao Wang</dc:creator>
+        <dc:creator opf:file-as="Glushko, Robert, Hemerly, Jess, Maloney, Murray, McPherson, Kimra, Petras, Vivien, Shaw, Ryan, and Wilde, Erik" opf:role="aut">Amelia Acker, Andrea Angquist, Christine Borgman, Lisa Jervis, Jacob Portnoff, Bryan Rea, Pamela Samuelson, Leslie Tom, Laura Wynholds, Anne Wootton</dc:creator>
+        <dc:creator opf:file-as="Glushko, Robert, Hemerly, Jess, Maloney, Murray, McPherson, Kimra, Petras, Vivien, Shaw, Ryan, and Wilde, Erik" opf:role="aut">Jeff Zych</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.4) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Abstract: We organize things, we organize information, we organize information about things, and we organize information about information. But even though “organizing” is a fundamental and ubiquitous challenge, when we compare these activities their contrasts are more apparent than their commonalities. We propose to unify many perspectives about organizing with the concept of an Organizing System, defined as an intentionally arranged collection of resources and the interactions they support. Every Organizing System involves a collection of resources, a choice of properties or principles used to describe and arrange resources, and ways of supporting interactions with resources. By comparing and contrasting how these activities take place in different contexts and domains, we can identify patterns of organizing. We can create a discipline of organizing in a disciplined way.&lt;/p&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:rights>Copyright © 2012-2013 MIT Press, Robert J. Glushko</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Organizing Systems</dc:subject>
+        <dc:subject>2. Information resources management.</dc:subject>
+        <dc:subject>3. Metadata.</dc:subject>
+        <dc:subject>1. Information organization.</dc:subject>
+        <dc:subject>Robert J.</dc:subject>
+        <dc:subject>editor of compilation.</dc:subject>
+        <dc:subject>I. Glushko</dc:subject>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
